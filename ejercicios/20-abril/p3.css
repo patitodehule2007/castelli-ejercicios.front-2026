@@ -1,0 +1,9 @@
+.lista {
+    list-style-image: url('https://img.icons8.com/color/15/000000/long-arrow-right.png');
+    padding-left: 40px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
